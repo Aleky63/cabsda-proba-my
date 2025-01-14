@@ -36,7 +36,7 @@ function AccordBody() {
       <ul>
         <li>1</li>
         <li>222</li>
-        <li>33333</li>
+        <li>3333</li>
       </ul>
     </>
   );

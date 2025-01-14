@@ -1,6 +1,6 @@
 .appContainer {
   width: 1308px;
-  padding: 0 66px;
+  padding: 0 70px;
   margin: 0 auto;
 }
 
@@ -8,7 +8,7 @@
 .header {
   display: flex;
   justify-content: space-between;
-  padding: 25px 0;
+  padding: 55px 0;
 }
 
 /* Продукты */
@@ -24,7 +24,7 @@
 /*Карточки*/
 .cards {
   display: flex;
-  column-gap: 32px;
+  column-gap: 82px;
   row-gap: 47px;
   flex-wrap: wrap;
 }
@@ -32,7 +32,7 @@
 /* Карточка */
 .card {
   width: 303px;
-  border: 3px solid #f6f7f8;
+  border: 3px solid #2773c0;
   display: flex;
   flex-direction: column;
   box-sizing: border-box;
