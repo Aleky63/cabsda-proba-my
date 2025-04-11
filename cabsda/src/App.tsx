@@ -5,8 +5,8 @@ import Rating from "./components/Rating/Rating";
 function App() {
   return (
     <div>
-      <PageTitle title={"This is 555555"} />
-      <PageTitle title={"This is 030303"} />
+      <PageTitle title={"This is 55555"} />
+      <PageTitle title={"This is 0303"} />
       <input />
       <input type="password" />
       <input type="date" />
