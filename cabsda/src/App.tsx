@@ -22,7 +22,7 @@ function App() {
         <Rating value={3} />
         <Rating value={4} />
         <Rating value={5} />
-        <div>This is App 55555</div>
+        <div>This is App 555</div>
       </div>
     </div>
   );
